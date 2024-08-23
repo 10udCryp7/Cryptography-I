@@ -1,0 +1,3 @@
+Các tư duy trong phần comment cũng tạm dùng được, nhưng chưa hẳn đúng bản chất.
+
+- Xem bản chất thông qua phần "Một số tính chất khá ảo" mục Legendre's Symbol.
